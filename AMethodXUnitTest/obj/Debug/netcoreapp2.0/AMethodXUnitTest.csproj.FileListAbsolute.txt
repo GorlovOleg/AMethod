@@ -1,0 +1,16 @@
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethodXUnitTest.deps.json
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethodXUnitTest.runtimeconfig.json
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethodXUnitTest.runtimeconfig.dev.json
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethodXUnitTest.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethodXUnitTest.pdb
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethod.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\bin\Debug\netcoreapp2.0\AMethod.pdb
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.csprojResolveAssemblyReference.cache
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.csproj.CoreCompileInputs.cache
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.AssemblyInfoInputs.cache
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.AssemblyInfo.cs
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.dll
+G:\Gorlov\_Interview\Project\AMethod\AMethodXUnitTest\obj\Debug\netcoreapp2.0\AMethodXUnitTest.pdb
